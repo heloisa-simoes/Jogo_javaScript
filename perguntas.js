@@ -30,4 +30,22 @@ export default [{
             { option: "49", correct: true },
         ],
     },
+
+    {
+        question: "Quanto é 6 x 8?",
+        answers: [
+            { option: "48", correct: false },
+            { option: "56", correct: false },
+            { option: "49", correct: true },
+        ],
+    },
+
+    {
+        question: "Quanto é 5 x 5?",
+        answers: [
+            { option: "25", correct: false },
+            { option: "10", correct: false },
+            { option: "15", correct: true },
+        ],
+    },
 ];
